@@ -1,4 +1,5 @@
 # RootGuard
+![RootGuard scan](screenshot.png)
 
 A Python rootkit and persistence detection tool for Windows, with a Tkinter GUI and a command-line mode. It looks for the techniques rootkits and other malware use to hide and survive reboots, and writes a timestamped report.
 
