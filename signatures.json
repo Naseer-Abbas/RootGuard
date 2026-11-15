@@ -1,0 +1,5 @@
+{
+  "_comment": "Known-bad kernel driver file names (e.g. \"evil.sys\") and SHA-256 hashes. Add entries from threat intelligence sources such as LOLDrivers (loldrivers.io) or MalwareBazaar.",
+  "driver_names": [],
+  "sha256": []
+}
